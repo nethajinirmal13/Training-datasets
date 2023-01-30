@@ -1,4 +1,4 @@
-Age of patient at time of operation,"Patient's year of operation (year - 1900, numerical)",,Survival status
+Age of patient at time of operation,"Patient's year of operation (year - 1900, numerical)",Number of positive axillary nodes detected,Survival status
 30,64,1,1
 30,62,3,1
 30,65,0,1
