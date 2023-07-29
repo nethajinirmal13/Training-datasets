@@ -1,0 +1,897 @@
+Country,Gold,Silver,Bronze,Total,Year,Venue
+Australia,3,4,1,8,1930,Hamilton 
+Bermuda,-,-,-,-,1930,Hamilton 
+Canada,20,15,19,54,1930,Hamilton 
+England,25,23,13,61,1930,Hamilton 
+Guyana,-,1,1,2,1930,Hamilton 
+New Zealand,3,4,2,9,1930,Hamilton 
+Newfoundland,-,-,-,-,1930,Hamilton 
+Northern Ireland,-,1,-,1,1930,Hamilton 
+Scotland,2,3,5,10,1930,Hamilton 
+South Africa,6,4,7,17,1930,Hamilton 
+Wales,-,2,1,3,1930,Hamilton 
+Australia,8,4,2,14,1934,London
+Bermuda,-,-,-,-,1934,London
+Canada,15,25,9,49,1934,London
+England,29,19,24,72,1934,London
+Guyana,1,-,-,1,1934,London
+India,-,-,1,1,1934,London
+Jamaica,-,1,1,2,1934,London
+New Zealand,1,-,2,3,1934,London
+Newfoundland,-,-,-,-,1934,London
+Northern Ireland,-,1,2,3,1934,London
+Scotland,5,4,16,25,1934,London
+South Africa,7,9,5,21,1934,London
+Trinidad & Tobago,-,-,-,-,1934,London
+Wales,-,3,3,6,1934,London
+Zimbabwe,-,-,2,2,1934,London
+Australia,25,19,22,66,1938,Sydney
+Bermuda,-,-,-,-,1938,Sydney
+Canada,13,16,15,44,1938,Sydney
+England,15,15,10,40,1938,Sydney
+Fiji,-,-,-,-,1938,Sydney
+Guyana,-,1,-,1,1938,Sydney
+India,-,-,-,-,1938,Sydney
+New Zealand,5,7,13,25,1938,Sydney
+Northern Ireland,-,-,-,-,1938,Sydney
+Scotland,-,2,3,5,1938,Sydney
+South Africa,10,10,6,26,1938,Sydney
+Sri Lanka,1,-,-,1,1938,Sydney
+Trinidad & Tobago,-,-,-,-,1938,Sydney
+Wales,2,1,-,3,1938,Sydney
+Zimbabwe,-,-,2,2,1938,Sydney
+Australia,34,27,19,80,1950,Auckland
+Canada,8,9,13,30,1950,Auckland
+England,19,16,13,48,1950,Auckland
+Fiji,1,2,2,5,1950,Auckland
+Malaya,2,1,1,4,1950,Auckland
+New Zealand,10,22,22,54,1950,Auckland
+Nigeria,-,1,-,1,1950,Auckland
+Scotland,5,3,2,10,1950,Auckland
+South Africa,8,4,8,20,1950,Auckland
+Sri Lanka,1,2,-,3,1950,Auckland
+Wales,-,1,-,1,1950,Auckland
+Zimbabwe,-,1,-,1,1950,Auckland
+Australia,20,11,17,48,1954,Vancouver
+Bahamas,-,-,-,-,1954,Vancouver
+Barbados,-,1,-,1,1954,Vancouver
+Bermuda,-,-,-,-,1954,Vancouver
+Canada,9,20,14,43,1954,Vancouver
+England,23,24,20,67,1954,Vancouver
+Fiji,-,-,-,-,1954,Vancouver
+Ghana,-,-,-,-,1954,Vancouver
+Guyana,-,-,1,1,1954,Vancouver
+Hong Kong,-,1,-,1,1954,Vancouver
+India,-,-,-,-,1954,Vancouver
+Jamaica,1,-,-,1,1954,Vancouver
+Kenya,-,-,-,-,1954,Vancouver
+New Zealand,7,7,5,19,1954,Vancouver
+Nigeria,1,3,3,7,1954,Vancouver
+Northern Ireland,2,1,-,3,1954,Vancouver
+Pakistan,1,3,2,6,1954,Vancouver
+Scotland,6,2,5,13,1954,Vancouver
+South Africa,16,6,13,35,1954,Vancouver
+Trinidad & Tobago,2,2,-,4,1954,Vancouver
+Uganda,-,1,-,1,1954,Vancouver
+Wales,1,1,5,7,1954,Vancouver
+Zambia,-,-,1,1,1954,Vancouver
+Zimbabwe,3,6,3,12,1954,Vancouver
+Australia,27,22,17,66,1958,Cardiff
+Bahamas,1,1,-,2,1958,Cardiff
+Barbados,1,1,-,2,1958,Cardiff
+Canada,1,10,16,27,1958,Cardiff
+Dominica,-,-,-,-,1958,Cardiff
+England,29,22,29,80,1958,Cardiff
+Fiji,-,-,-,-,1958,Cardiff
+Ghana,-,-,1,1,1958,Cardiff
+Gibraltar,-,-,-,-,1958,Cardiff
+Guyana,-,1,-,1,1958,Cardiff
+Hong Kong,-,-,-,-,1958,Cardiff
+India,2,1,-,3,1958,Cardiff
+Isle of Man,-,-,1,1,1958,Cardiff
+Jamaica,4,2,1,7,1958,Cardiff
+Jersey,-,-,-,-,1958,Cardiff
+Kenya,-,-,2,2,1958,Cardiff
+Malaya,-,2,-,2,1958,Cardiff
+Malta,-,-,-,-,1958,Cardiff
+Mauritius,-,-,-,-,1958,Cardiff
+New Zealand,4,6,9,19,1958,Cardiff
+Nigeria,-,1,1,2,1958,Cardiff
+Northern Ireland,1,1,3,5,1958,Cardiff
+Pakistan,3,5,2,10,1958,Cardiff
+Sabah,-,-,-,-,1958,Cardiff
+Sarawak,-,-,-,-,1958,Cardiff
+Scotland,5,5,3,13,1958,Cardiff
+Sierra Leone,-,-,-,-,1958,Cardiff
+Singapore,2,-,-,2,1958,Cardiff
+South Africa,13,10,8,31,1958,Cardiff
+Sri Lanka,-,-,-,-,1958,Cardiff
+St. Vincent & The Grenadines,-,-,-,-,1958,Cardiff
+Trinidad & Tobago,-,-,1,1,1958,Cardiff
+Uganda,-,1,-,1,1958,Cardiff
+Wales,1,3,7,11,1958,Cardiff
+Zimbabwe,-,-,3,3,1958,Cardiff
+Aden,-,-,-,-,1962,Perth
+Australia,38,36,31,105,1962,Perth
+Bahamas,-,1,-,1,1962,Perth
+Barbados,-,-,1,1,1962,Perth
+Belize,-,-,-,-,1962,Perth
+Canada,4,12,15,31,1962,Perth
+Dominica,-,-,-,-,1962,Perth
+England,28,22,27,77,1962,Perth
+Fiji,-,-,2,2,1962,Perth
+Ghana,3,5,1,9,1962,Perth
+Gibraltar,-,-,-,-,1962,Perth
+Guyana,-,-,1,1,1962,Perth
+Hong Kong,-,-,-,-,1962,Perth
+Isle of Man,-,-,-,-,1962,Perth
+Jamaica,3,1,1,5,1962,Perth
+Jersey,-,-,1,1,1962,Perth
+Kenya,2,2,1,5,1962,Perth
+Malaya,-,-,1,1,1962,Perth
+Malta,-,-,-,-,1962,Perth
+Mauritius,-,-,-,-,1962,Perth
+New Zealand,10,11,10,31,1962,Perth
+Northern Ireland,-,-,1,1,1962,Perth
+Pakistan,8,1,-,9,1962,Perth
+Papua New Guinea,-,-,1,1,1962,Perth
+Sabah,-,-,-,-,1962,Perth
+Sarawak,-,-,-,-,1962,Perth
+Scotland,4,7,3,14,1962,Perth
+Singapore,2,-,-,2,1962,Perth
+Sri Lanka,-,-,-,-,1962,Perth
+St. Lucia,-,-,-,-,1962,Perth
+Tanzania,-,-,-,-,1962,Perth
+Trinidad & Tobago,-,-,2,2,1962,Perth
+Uganda,1,1,4,6,1962,Perth
+Wales,-,2,4,6,1962,Perth
+Zimbabwe,-,2,5,7,1962,Perth
+Aden,-,-,-,-,1966,Kingston
+Antigua & Barbuda,-,-,-,-,1966,Kingston
+Australia,23,28,22,73,1966,Kingston
+Bahamas,-,1,-,1,1966,Kingston
+Barbados,-,-,1,1,1966,Kingston
+Belize,-,-,-,-,1966,Kingston
+Bermuda,-,1,-,1,1966,Kingston
+Canada,14,20,23,57,1966,Kingston
+England,33,24,23,80,1966,Kingston
+Fiji,-,-,-,-,1966,Kingston
+Ghana,5,2,2,9,1966,Kingston
+Gibraltar,-,-,-,-,1966,Kingston
+Guyana,-,1,-,1,1966,Kingston
+India,3,4,3,10,1966,Kingston
+Isle of Man,1,-,-,1,1966,Kingston
+Jamaica,-,4,8,12,1966,Kingston
+Jersey,-,-,-,-,1966,Kingston
+Kenya,4,1,3,8,1966,Kingston
+Malaysia,2,2,1,5,1966,Kingston
+Mauritius,-,-,-,-,1966,Kingston
+New Zealand,8,5,13,26,1966,Kingston
+Nigeria,3,4,3,10,1966,Kingston
+Northern Ireland,1,3,3,7,1966,Kingston
+Pakistan,4,1,4,9,1966,Kingston
+Papua New Guinea,-,1,-,1,1966,Kingston
+Scotland,1,4,4,9,1966,Kingston
+Sierra Leone,-,-,-,-,1966,Kingston
+Singapore,-,-,-,-,1966,Kingston
+South Arabia,-,-,-,-,1966,Kingston
+Sri Lanka,-,-,-,-,1966,Kingston
+St. Vincent & The Grenadines,-,-,-,-,1966,Kingston
+Tanzania,-,-,-,-,1966,Kingston
+Trinidad & Tobago,5,2,2,9,1966,Kingston
+Uganda,-,-,3,3,1966,Kingston
+Wales,3,2,2,7,1966,Kingston
+Antigua & Barbuda,-,-,-,-,1970,Edinburgh
+Australia,36,24,22,82,1970,Edinburgh
+Bahamas,-,-,-,-,1970,Edinburgh
+Barbados,-,1,-,1,1970,Edinburgh
+Bermuda,-,-,-,-,1970,Edinburgh
+Canada,18,24,24,66,1970,Edinburgh
+Dominica,-,-,-,-,1970,Edinburgh
+England,27,25,32,84,1970,Edinburgh
+Fiji,-,-,1,1,1970,Edinburgh
+Ghana,2,3,2,7,1970,Edinburgh
+Gibraltar,-,-,-,-,1970,Edinburgh
+Grenada,-,-,-,-,1970,Edinburgh
+Guernsey,-,-,-,-,1970,Edinburgh
+Guyana,-,-,1,1,1970,Edinburgh
+Hong Kong,1,-,-,1,1970,Edinburgh
+India,5,3,4,12,1970,Edinburgh
+Isle of Man,-,-,1,1,1970,Edinburgh
+Jamaica,4,2,1,7,1970,Edinburgh
+Jersey,-,-,-,-,1970,Edinburgh
+Kenya,5,3,6,14,1970,Edinburgh
+Malawi,-,-,1,1,1970,Edinburgh
+Malaysia,1,1,1,3,1970,Edinburgh
+Malta,-,-,-,-,1970,Edinburgh
+Mauritius,-,-,-,-,1970,Edinburgh
+New Zealand,2,6,6,14,1970,Edinburgh
+Nigeria,2,-,-,2,1970,Edinburgh
+Northern Ireland,3,1,5,9,1970,Edinburgh
+Pakistan,4,3,2,9,1970,Edinburgh
+Papua New Guinea,-,-,-,-,1970,Edinburgh
+Scotland,6,8,11,25,1970,Edinburgh
+Sierra Leone,-,-,-,-,1970,Edinburgh
+Singapore,-,1,1,2,1970,Edinburgh
+Sri Lanka,-,-,-,-,1970,Edinburgh
+St. Lucia,-,-,-,-,1970,Edinburgh
+St. Vincent & The Grenadines,-,-,1,1,1970,Edinburgh
+Swaziland,-,-,-,-,1970,Edinburgh
+Tanzania,-,1,-,1,1970,Edinburgh
+The Gambia,-,-,1,1,1970,Edinburgh
+Trinidad & Tobago,-,4,3,7,1970,Edinburgh
+Uganda,3,3,1,7,1970,Edinburgh
+Wales,2,6,4,12,1970,Edinburgh
+Zambia,-,2,2,4,1970,Edinburgh
+Australia,29,28,25,82,1974,Christchurch
+Barbados,-,-,-,-,1974,Christchurch
+Bermuda,-,-,-,-,1974,Christchurch
+Botswana,-,-,-,-,1974,Christchurch
+Canada,25,19,18,62,1974,Christchurch
+Cook Islands,-,-,-,-,1974,Christchurch
+England,28,31,21,80,1974,Christchurch
+Fiji,-,-,-,-,1974,Christchurch
+Ghana,1,3,5,9,1974,Christchurch
+Gibraltar,-,-,-,-,1974,Christchurch
+Grenada,-,-,-,-,1974,Christchurch
+Guernsey,-,-,-,-,1974,Christchurch
+Hong Kong,-,-,-,-,1974,Christchurch
+India,4,8,3,15,1974,Christchurch
+Isle of Man,-,-,-,-,1974,Christchurch
+Jamaica,2,1,-,3,1974,Christchurch
+Jersey,-,-,-,-,1974,Christchurch
+Kenya,7,2,9,18,1974,Christchurch
+Lesotho,-,-,-,-,1974,Christchurch
+Malawi,-,-,-,-,1974,Christchurch
+Malaysia,1,-,3,4,1974,Christchurch
+Mauritius,-,-,-,-,1974,Christchurch
+New Zealand,9,8,18,35,1974,Christchurch
+Nigeria,3,3,4,10,1974,Christchurch
+Northern Ireland,3,1,2,6,1974,Christchurch
+Papua New Guinea,-,-,-,-,1974,Christchurch
+Samoa,-,1,1,2,1974,Christchurch
+Scotland,3,5,11,19,1974,Christchurch
+Singapore,-,-,1,1,1974,Christchurch
+St. Vincent & The Grenadines,1,-,-,1,1974,Christchurch
+Swaziland,-,-,1,1,1974,Christchurch
+Tanzania,1,-,1,2,1974,Christchurch
+The Gambia,-,-,-,-,1974,Christchurch
+Tonga,-,-,-,-,1974,Christchurch
+Trinidad & Tobago,-,1,1,2,1974,Christchurch
+Uganda,2,4,3,9,1974,Christchurch
+Wales,1,5,4,10,1974,Christchurch
+Zambia,1,1,1,3,1974,Christchurch
+Antigua & Barbuda,-,-,-,-,1978,Edmonton
+Australia,24,33,27,84,1978,Edmonton
+Bahamas,-,1,-,1,1978,Edmonton
+Bangladesh,-,-,-,-,1978,Edmonton
+Barbados,-,-,-,-,1978,Edmonton
+Belize,-,-,-,-,1978,Edmonton
+Bermuda,-,-,-,-,1978,Edmonton
+Canada,45,31,33,109,1978,Edmonton
+Cayman Islands,-,-,-,-,1978,Edmonton
+Cook Islands,-,-,-,-,1978,Edmonton
+Cyprus,-,-,-,-,1978,Edmonton
+England,27,27,33,87,1978,Edmonton
+Fiji,-,-,-,-,1978,Edmonton
+Ghana,1,1,1,3,1978,Edmonton
+Gibraltar,-,-,-,-,1978,Edmonton
+Grenada,-,-,-,-,1978,Edmonton
+Guernsey,-,-,-,-,1978,Edmonton
+Guyana,1,1,1,3,1978,Edmonton
+Hong Kong,2,-,-,2,1978,Edmonton
+India,5,5,5,15,1978,Edmonton
+Isle of Man,-,-,1,1,1978,Edmonton
+Jamaica,2,2,3,7,1978,Edmonton
+Jersey,-,-,-,-,1978,Edmonton
+Kenya,7,6,5,18,1978,Edmonton
+Lesotho,-,-,-,-,1978,Edmonton
+Malawi,-,-,-,-,1978,Edmonton
+Malaysia,1,2,1,4,1978,Edmonton
+Mauritius,-,-,-,-,1978,Edmonton
+New Zealand,5,6,9,20,1978,Edmonton
+Northern Ireland,2,1,2,5,1978,Edmonton
+Papua New Guinea,-,1,-,1,1978,Edmonton
+Samoa,-,-,3,3,1978,Edmonton
+Scotland,3,6,5,14,1978,Edmonton
+Sierra Leone,-,-,-,-,1978,Edmonton
+Singapore,-,-,-,-,1978,Edmonton
+Sri Lanka,-,-,-,-,1978,Edmonton
+St. Kitts & Nevis,-,-,-,-,1978,Edmonton
+St. Lucia,-,-,-,-,1978,Edmonton
+St. Vincent & The Grenadines,-,-,-,-,1978,Edmonton
+Swaziland,-,-,-,-,1978,Edmonton
+Tanzania,1,1,-,2,1978,Edmonton
+The Gambia,-,-,-,-,1978,Edmonton
+Trinidad & Tobago,-,2,2,4,1978,Edmonton
+Turks & Caicos Islands,-,-,-,-,1978,Edmonton
+Wales,2,1,5,8,1978,Edmonton
+Zambia,-,2,2,4,1978,Edmonton
+Australia,39,39,29,107,1982,Brisbane
+Bahamas,2,2,2,6,1982,Brisbane
+Barbados,-,-,-,-,1982,Brisbane
+Bermuda,-,-,1,1,1982,Brisbane
+Botswana,-,-,-,-,1982,Brisbane
+Canada,26,23,33,82,1982,Brisbane
+Cayman Islands,-,-,-,-,1982,Brisbane
+Cyprus,-,-,-,-,1982,Brisbane
+England,38,38,32,108,1982,Brisbane
+Falkland Islands,-,-,-,-,1982,Brisbane
+Fiji,1,-,-,1,1982,Brisbane
+Ghana,-,-,-,-,1982,Brisbane
+Gibraltar,-,-,-,-,1982,Brisbane
+Grenada,-,-,-,-,1982,Brisbane
+Guernsey,-,1,1,2,1982,Brisbane
+Guyana,-,-,-,-,1982,Brisbane
+Hong Kong,1,-,-,1,1982,Brisbane
+India,5,8,3,16,1982,Brisbane
+Isle of Man,-,-,-,-,1982,Brisbane
+Jamaica,2,1,1,4,1982,Brisbane
+Jersey,-,-,-,-,1982,Brisbane
+Kenya,4,2,4,10,1982,Brisbane
+Malawi,-,-,-,-,1982,Brisbane
+Malaysia,1,-,1,2,1982,Brisbane
+Malta,-,-,-,-,1982,Brisbane
+Mauritius,-,-,-,-,1982,Brisbane
+New Zealand,5,8,13,26,1982,Brisbane
+Nigeria,5,-,8,13,1982,Brisbane
+Northern Ireland,-,3,3,6,1982,Brisbane
+Papua New Guinea,-,-,-,-,1982,Brisbane
+Samoa,-,-,-,-,1982,Brisbane
+Scotland,8,6,12,26,1982,Brisbane
+Singapore,-,-,1,1,1982,Brisbane
+Solomon Islands,-,-,-,-,1982,Brisbane
+Sri Lanka,-,-,-,-,1982,Brisbane
+St. Helena,-,-,-,-,1982,Brisbane
+Swaziland,-,-,1,1,1982,Brisbane
+Tanzania,1,2,2,5,1982,Brisbane
+The Gambia,-,-,-,-,1982,Brisbane
+Tonga,-,-,-,-,1982,Brisbane
+Trinidad & Tobago,-,-,-,-,1982,Brisbane
+Uganda,-,3,-,3,1982,Brisbane
+Vanuatu,-,-,-,-,1982,Brisbane
+Wales,4,4,1,9,1982,Brisbane
+Zambia,-,1,5,6,1982,Brisbane
+Zimbabwe,1,-,-,1,1982,Brisbane
+Australia,40,46,35,121,1986,Edinburgh
+Bermuda,-,-,-,-,1986,Edinburgh
+Botswana,-,-,1,1,1986,Edinburgh
+Canada,51,34,31,116,1986,Edinburgh
+Cayman Islands,-,-,-,-,1986,Edinburgh
+Cook Islands,-,-,-,-,1986,Edinburgh
+England,52,43,49,144,1986,Edinburgh
+Falkland Islands,-,-,-,-,1986,Edinburgh
+Fiji,-,-,-,-,1986,Edinburgh
+Gibraltar,-,-,-,-,1986,Edinburgh
+Guernsey,-,2,-,2,1986,Edinburgh
+Hong Kong,-,-,3,3,1986,Edinburgh
+Isle of Man,1,-,-,1,1986,Edinburgh
+Jersey,-,-,1,1,1986,Edinburgh
+Lesotho,-,-,-,-,1986,Edinburgh
+Malawi,-,-,2,2,1986,Edinburgh
+Maldives,-,-,-,-,1986,Edinburgh
+Malta,-,-,-,-,1986,Edinburgh
+New Zealand,8,16,14,38,1986,Edinburgh
+Norfolk Island,-,-,-,-,1986,Edinburgh
+Northern Ireland,2,4,9,15,1986,Edinburgh
+Samoa,-,-,-,-,1986,Edinburgh
+Scotland,3,12,18,33,1986,Edinburgh
+Singapore,-,-,1,1,1986,Edinburgh
+Swaziland,-,1,-,1,1986,Edinburgh
+Vanuatu,-,-,-,-,1986,Edinburgh
+Wales,6,5,12,23,1986,Edinburgh
+Australia,52,54,56,162,1990,Auckland
+Bahamas,-,-,2,2,1990,Auckland
+Bangladesh,1,-,1,2,1990,Auckland
+Barbados,-,-,-,-,1990,Auckland
+Bermuda,1,-,-,1,1990,Auckland
+Botswana,-,-,-,-,1990,Auckland
+British Virgin Islands,-,-,-,-,1990,Auckland
+Brunei Darussalam,-,-,-,-,1990,Auckland
+Canada,35,41,37,113,1990,Auckland
+Cayman Islands,-,-,-,-,1990,Auckland
+Cook Islands,-,-,-,-,1990,Auckland
+Cyprus,1,1,-,2,1990,Auckland
+England,46,40,42,128,1990,Auckland
+Falkland Islands,-,-,-,-,1990,Auckland
+Ghana,-,2,-,2,1990,Auckland
+Gibraltar,-,-,-,-,1990,Auckland
+Guernsey,1,-,-,1,1990,Auckland
+Guyana,-,-,1,1,1990,Auckland
+Hong Kong,1,1,3,5,1990,Auckland
+India,13,8,11,32,1990,Auckland
+Isle of Man,-,-,-,-,1990,Auckland
+Jamaica,2,-,2,4,1990,Auckland
+Jersey,1,-,1,2,1990,Auckland
+Kenya,6,9,3,18,1990,Auckland
+Lesotho,-,-,-,-,1990,Auckland
+Malawi,-,-,-,-,1990,Auckland
+Malaysia,2,2,-,4,1990,Auckland
+Maldives,-,-,-,-,1990,Auckland
+Malta,-,-,1,1,1990,Auckland
+Mauritius,-,-,-,-,1990,Auckland
+Nauru,1,2,-,3,1990,Auckland
+New Zealand,17,14,27,58,1990,Auckland
+Nigeria,5,13,7,25,1990,Auckland
+Norfolk Island,-,-,-,-,1990,Auckland
+Northern Ireland,1,3,5,9,1990,Auckland
+Pakistan,-,-,-,-,1990,Auckland
+Papua New Guinea,1,-,-,1,1990,Auckland
+Samoa,-,-,2,2,1990,Auckland
+Scotland,5,7,10,22,1990,Auckland
+Seychelles,-,-,-,-,1990,Auckland
+Sierra Leone,-,-,-,-,1990,Auckland
+Singapore,-,-,-,-,1990,Auckland
+Solomon Islands,-,-,-,-,1990,Auckland
+Sri Lanka,-,-,-,-,1990,Auckland
+St. Kitts & Nevis,-,-,-,-,1990,Auckland
+Swaziland,-,-,-,-,1990,Auckland
+Tanzania,-,1,2,3,1990,Auckland
+The Gambia,-,-,-,-,1990,Auckland
+Tonga,-,-,-,-,1990,Auckland
+Trinidad & Tobago,-,-,-,-,1990,Auckland
+Uganda,2,-,2,4,1990,Auckland
+Vanuatu,-,-,-,-,1990,Auckland
+Wales,10,3,12,25,1990,Auckland
+Zambia,-,-,3,3,1990,Auckland
+Zimbabwe,-,2,1,3,1990,Auckland
+Antigua & Barbuda,-,-,-,-,1994,Victoria
+Australia,87,52,42,181,1994,Victoria
+Bahamas,-,-,-,-,1994,Victoria
+Bangladesh,-,-,-,-,1994,Victoria
+Barbados,-,-,-,-,1994,Victoria
+Belize,-,-,-,-,1994,Victoria
+Bermuda,-,-,1,1,1994,Victoria
+Botswana,-,-,1,1,1994,Victoria
+British Virgin Islands,-,-,-,-,1994,Victoria
+Brunei Darussalam,-,-,-,-,1994,Victoria
+Canada,40,42,47,129,1994,Victoria
+Cayman Islands,-,-,-,-,1994,Victoria
+Cook Islands,-,-,-,-,1994,Victoria
+Cyprus,2,1,2,5,1994,Victoria
+Dominica,-,-,-,-,1994,Victoria
+England,30,45,51,126,1994,Victoria
+Falkland Islands,-,-,-,-,1994,Victoria
+Ghana,-,-,2,2,1994,Victoria
+Gibraltar,-,-,-,-,1994,Victoria
+Guernsey,-,-,1,1,1994,Victoria
+Guyana,-,-,-,-,1994,Victoria
+Hong Kong,-,-,3,3,1994,Victoria
+India,6,11,7,24,1994,Victoria
+Isle of Man,-,-,-,-,1994,Victoria
+Jamaica,2,4,2,8,1994,Victoria
+Jersey,-,-,-,-,1994,Victoria
+Kenya,7,4,8,19,1994,Victoria
+Lesotho,-,-,-,-,1994,Victoria
+Malawi,-,-,-,-,1994,Victoria
+Malaysia,2,2,2,6,1994,Victoria
+Maldives,-,-,-,-,1994,Victoria
+Malta,-,-,-,-,1994,Victoria
+Mauritius,-,-,-,-,1994,Victoria
+Montserrat,-,-,-,-,1994,Victoria
+Namibia,1,-,1,2,1994,Victoria
+Nauru,3,-,-,3,1994,Victoria
+New Zealand,5,16,20,41,1994,Victoria
+Nigeria,11,13,13,37,1994,Victoria
+Norfolk Island,-,-,1,1,1994,Victoria
+Northern Ireland,5,2,3,10,1994,Victoria
+Pakistan,-,-,3,3,1994,Victoria
+Papua New Guinea,-,1,-,1,1994,Victoria
+Samoa,-,1,-,1,1994,Victoria
+Scotland,6,3,11,20,1994,Victoria
+Seychelles,-,-,1,1,1994,Victoria
+Sierra Leone,-,-,-,-,1994,Victoria
+Singapore,-,-,-,-,1994,Victoria
+Solomon Islands,-,-,-,-,1994,Victoria
+South Africa,2,4,5,11,1994,Victoria
+Sri Lanka,1,2,-,3,1994,Victoria
+St. Kitts & Nevis,-,-,-,-,1994,Victoria
+St. Lucia,-,-,-,-,1994,Victoria
+St. Vincent & The Grenadines,-,-,-,-,1994,Victoria
+Swaziland,-,-,-,-,1994,Victoria
+Tanzania,-,-,1,1,1994,Victoria
+The Gambia,-,-,-,-,1994,Victoria
+Tonga,-,-,1,1,1994,Victoria
+Trinidad & Tobago,-,-,2,2,1994,Victoria
+Uganda,-,-,2,2,1994,Victoria
+Vanuatu,-,-,-,-,1994,Victoria
+Wales,5,8,6,19,1994,Victoria
+Zambia,1,1,2,4,1994,Victoria
+Zimbabwe,-,3,3,6,1994,Victoria
+Anguilla,-,-,-,-,1998,Kuala Lumpur
+Antigua & Barbuda,-,-,-,-,1998,Kuala Lumpur
+Australia,79,61,56,196,1998,Kuala Lumpur
+Bahamas,1,1,-,2,1998,Kuala Lumpur
+Bangladesh,-,-,-,-,1998,Kuala Lumpur
+Barbados,1,-,2,3,1998,Kuala Lumpur
+Belize,-,-,-,-,1998,Kuala Lumpur
+Bermuda,-,1,-,1,1998,Kuala Lumpur
+Botswana,-,-,-,-,1998,Kuala Lumpur
+British Virgin Islands,-,-,-,-,1998,Kuala Lumpur
+Brunei Darussalam,-,-,-,-,1998,Kuala Lumpur
+Cameroon,-,3,3,6,1998,Kuala Lumpur
+Canada,30,31,38,99,1998,Kuala Lumpur
+Cayman Islands,-,-,-,-,1998,Kuala Lumpur
+Cook Islands,-,-,-,-,1998,Kuala Lumpur
+Cyprus,1,1,1,3,1998,Kuala Lumpur
+Dominica,-,-,-,-,1998,Kuala Lumpur
+England,36,47,52,135,1998,Kuala Lumpur
+Falkland Islands,-,-,-,-,1998,Kuala Lumpur
+Fiji,-,1,-,1,1998,Kuala Lumpur
+Ghana,1,1,3,5,1998,Kuala Lumpur
+Gibraltar,-,-,-,-,1998,Kuala Lumpur
+Grenada,-,-,-,-,1998,Kuala Lumpur
+Guernsey,-,-,-,-,1998,Kuala Lumpur
+Guyana,-,-,-,-,1998,Kuala Lumpur
+India,7,10,8,25,1998,Kuala Lumpur
+Isle of Man,-,1,-,1,1998,Kuala Lumpur
+Jamaica,4,2,-,6,1998,Kuala Lumpur
+Jersey,-,-,-,-,1998,Kuala Lumpur
+Kenya,7,5,4,16,1998,Kuala Lumpur
+Kiribati,-,-,-,-,1998,Kuala Lumpur
+Lesotho,1,-,-,1,1998,Kuala Lumpur
+Malawi,-,-,-,-,1998,Kuala Lumpur
+Malaysia,10,13,12,35,1998,Kuala Lumpur
+Maldives,-,-,-,-,1998,Kuala Lumpur
+Malta,-,-,-,-,1998,Kuala Lumpur
+Mauritius,1,1,2,4,1998,Kuala Lumpur
+Montserrat,-,-,-,-,1998,Kuala Lumpur
+Mozambique,1,1,-,2,1998,Kuala Lumpur
+Namibia,-,2,1,3,1998,Kuala Lumpur
+Nauru,3,-,-,3,1998,Kuala Lumpur
+New Zealand,8,6,20,34,1998,Kuala Lumpur
+Norfolk Island,-,-,-,-,1998,Kuala Lumpur
+Northern Ireland,2,1,1,4,1998,Kuala Lumpur
+Pakistan,-,1,-,1,1998,Kuala Lumpur
+Papua New Guinea,-,-,1,1,1998,Kuala Lumpur
+Samoa,-,-,-,-,1998,Kuala Lumpur
+Scotland,3,2,7,12,1998,Kuala Lumpur
+Seychelles,-,2,-,2,1998,Kuala Lumpur
+Sierra Leone,-,-,-,-,1998,Kuala Lumpur
+Singapore,-,-,-,-,1998,Kuala Lumpur
+Solomon Islands,-,-,-,-,1998,Kuala Lumpur
+South Africa,9,11,14,34,1998,Kuala Lumpur
+Sri Lanka,-,1,1,2,1998,Kuala Lumpur
+St. Helena,-,-,-,-,1998,Kuala Lumpur
+St. Kitts & Nevis,-,-,-,-,1998,Kuala Lumpur
+St. Lucia,-,-,-,-,1998,Kuala Lumpur
+St. Vincent & The Grenadines,-,-,-,-,1998,Kuala Lumpur
+Swaziland,-,-,-,-,1998,Kuala Lumpur
+Tanzania,1,1,1,3,1998,Kuala Lumpur
+The Gambia,-,-,-,-,1998,Kuala Lumpur
+Tonga,-,-,-,-,1998,Kuala Lumpur
+Trinidad & Tobago,1,1,1,3,1998,Kuala Lumpur
+Turks & Caicos Islands,-,-,-,-,1998,Kuala Lumpur
+Uganda,-,-,1,1,1998,Kuala Lumpur
+Vanuatu,-,-,-,-,1998,Kuala Lumpur
+Wales,3,4,8,15,1998,Kuala Lumpur
+Zambia,-,-,1,1,1998,Kuala Lumpur
+Zimbabwe,2,-,3,5,1998,Kuala Lumpur
+Anguilla,-,-,-,-,2002,Manchester
+Antigua & Barbuda,-,-,-,-,2002,Manchester
+Australia,81,61,63,205,2002,Manchester
+Bahamas,4,-,4,8,2002,Manchester
+Bangladesh,1,-,-,1,2002,Manchester
+Barbados,-,-,1,1,2002,Manchester
+Belize,-,-,-,-,2002,Manchester
+Bermuda,-,-,-,-,2002,Manchester
+Botswana,-,2,1,3,2002,Manchester
+British Virgin Islands,-,-,-,-,2002,Manchester
+Brunei Darussalam,-,-,-,-,2002,Manchester
+Cameroon,9,1,2,12,2002,Manchester
+Canada,31,41,45,117,2002,Manchester
+Cayman Islands,-,-,1,1,2002,Manchester
+Cook Islands,-,-,-,-,2002,Manchester
+Cyprus,2,1,1,4,2002,Manchester
+Dominica,-,-,-,-,2002,Manchester
+England,53,51,60,164,2002,Manchester
+Falkland Islands,-,-,-,-,2002,Manchester
+Fiji,1,1,1,3,2002,Manchester
+Ghana,-,-,1,1,2002,Manchester
+Gibraltar,-,-,-,-,2002,Manchester
+Grenada,-,-,-,-,2002,Manchester
+Guernsey,-,-,-,-,2002,Manchester
+Guyana,1,-,-,1,2002,Manchester
+India,30,22,17,69,2002,Manchester
+Isle of Man,-,-,-,-,2002,Manchester
+Jamaica,4,6,7,17,2002,Manchester
+Jersey,-,-,-,-,2002,Manchester
+Kenya,4,8,4,16,2002,Manchester
+Kiribati,-,-,-,-,2002,Manchester
+Lesotho,-,-,1,1,2002,Manchester
+Malawi,-,-,-,-,2002,Manchester
+Malaysia,7,9,18,34,2002,Manchester
+Maldives,-,-,-,-,2002,Manchester
+Malta,-,-,1,1,2002,Manchester
+Mauritius,-,-,1,1,2002,Manchester
+Montserrat,-,-,-,-,2002,Manchester
+Mozambique,1,-,-,1,2002,Manchester
+Namibia,1,-,4,5,2002,Manchester
+Nauru,2,5,8,15,2002,Manchester
+New Zealand,11,13,20,44,2002,Manchester
+Nigeria,5,3,11,19,2002,Manchester
+Niue,-,-,-,-,2002,Manchester
+Norfolk Island,-,-,-,-,2002,Manchester
+Northern Ireland,2,2,1,5,2002,Manchester
+Pakistan,1,3,4,8,2002,Manchester
+Papua New Guinea,-,-,-,-,2002,Manchester
+Samoa,-,1,2,3,2002,Manchester
+Scotland,6,8,15,29,2002,Manchester
+Seychelles,-,-,-,-,2002,Manchester
+Sierra Leone,-,-,-,-,2002,Manchester
+Singapore,4,1,7,12,2002,Manchester
+Solomon Islands,-,-,-,-,2002,Manchester
+South Africa,9,20,17,46,2002,Manchester
+Sri Lanka,-,-,-,-,2002,Manchester
+St. Helena,-,-,-,-,2002,Manchester
+St. Kitts & Nevis,1,-,-,1,2002,Manchester
+St. Lucia,-,-,1,1,2002,Manchester
+St. Vincent & The Grenadines,-,-,-,-,2002,Manchester
+Swaziland,-,-,-,-,2002,Manchester
+Tanzania,1,-,1,2,2002,Manchester
+The Gambia,-,-,-,-,2002,Manchester
+Tonga,-,-,-,-,2002,Manchester
+Trinidad & Tobago,-,1,-,1,2002,Manchester
+Turks & Caicos Islands,-,-,-,-,2002,Manchester
+Tuvalu,-,-,-,-,2002,Manchester
+Uganda,-,2,-,2,2002,Manchester
+Vanuatu,-,-,-,-,2002,Manchester
+Wales,6,13,12,31,2002,Manchester
+Zambia,1,1,1,3,2002,Manchester
+Zimbabwe,1,1,-,2,2002,Manchester
+Anguilla,-,-,-,-,2006,Melbourne
+Antigua & Barbuda,-,-,-,-,2006,Melbourne
+Australia,84,69,68,221,2006,Melbourne
+Bahamas,-,2,-,2,2006,Melbourne
+Bangladesh,-,1,-,1,2006,Melbourne
+Barbados,-,-,1,1,2006,Melbourne
+Belize,-,-,-,-,2006,Melbourne
+Bermuda,-,-,-,-,2006,Melbourne
+Botswana,-,1,1,2,2006,Melbourne
+British Virgin Islands,-,-,-,-,2006,Melbourne
+Brunei Darussalam,-,-,-,-,2006,Melbourne
+Cameroon,-,1,2,3,2006,Melbourne
+Canada,26,30,31,87,2006,Melbourne
+Cayman Islands,-,-,-,-,2006,Melbourne
+Cook Islands,-,-,-,-,2006,Melbourne
+Cyprus,3,1,2,6,2006,Melbourne
+Dominica,-,-,-,-,2006,Melbourne
+England,36,40,37,113,2006,Melbourne
+Falkland Islands,-,-,-,-,2006,Melbourne
+Fiji,-,-,1,1,2006,Melbourne
+Ghana,2,-,1,3,2006,Melbourne
+Gibraltar,-,-,-,-,2006,Melbourne
+Grenada,-,1,-,1,2006,Melbourne
+Guernsey,-,-,-,-,2006,Melbourne
+Guyana,-,-,-,-,2006,Melbourne
+India,22,17,10,49,2006,Melbourne
+Isle of Man,1,-,1,2,2006,Melbourne
+Jamaica,10,4,8,22,2006,Melbourne
+Jersey,-,-,-,-,2006,Melbourne
+Kenya,6,5,7,18,2006,Melbourne
+Kiribati,-,-,-,-,2006,Melbourne
+Lesotho,-,1,-,1,2006,Melbourne
+Malawi,-,-,-,-,2006,Melbourne
+Malaysia,7,12,10,29,2006,Melbourne
+Maldives,-,-,-,-,2006,Melbourne
+Malta,-,1,1,2,2006,Melbourne
+Mauritius,-,3,-,3,2006,Melbourne
+Montserrat,-,-,-,-,2006,Melbourne
+Mozambique,-,-,1,1,2006,Melbourne
+Namibia,1,-,1,2,2006,Melbourne
+Nauru,-,1,1,2,2006,Melbourne
+New Zealand,6,12,14,32,2006,Melbourne
+Nigeria,4,6,7,17,2006,Melbourne
+Niue,-,-,-,-,2006,Melbourne
+Norfolk Island,-,-,-,-,2006,Melbourne
+Northern Ireland,-,2,-,2,2006,Melbourne
+Pakistan,1,3,1,5,2006,Melbourne
+Papua New Guinea,1,1,-,2,2006,Melbourne
+Samoa,-,-,1,1,2006,Melbourne
+Scotland,11,7,11,29,2006,Melbourne
+Seychelles,-,-,2,2,2006,Melbourne
+Sierra Leone,-,-,-,-,2006,Melbourne
+Singapore,5,6,7,18,2006,Melbourne
+Solomon Islands,-,-,-,-,2006,Melbourne
+South Africa,12,13,13,38,2006,Melbourne
+Sri Lanka,1,-,-,1,2006,Melbourne
+St. Helena,-,-,-,-,2006,Melbourne
+St. Kitts & Nevis,-,-,-,-,2006,Melbourne
+St. Lucia,-,-,-,-,2006,Melbourne
+St. Vincent & The Grenadines,-,-,-,-,2006,Melbourne
+Swaziland,-,-,1,1,2006,Melbourne
+Tanzania,1,-,1,2,2006,Melbourne
+The Gambia,-,-,-,-,2006,Melbourne
+Tonga,-,-,-,-,2006,Melbourne
+Trinidad & Tobago,-,-,3,3,2006,Melbourne
+Turks & Caicos Islands,-,-,-,-,2006,Melbourne
+Tuvalu,-,-,-,-,2006,Melbourne
+Uganda,2,-,1,3,2006,Melbourne
+Vanuatu,-,-,-,-,2006,Melbourne
+Wales,3,5,11,19,2006,Melbourne
+Zambia,-,-,-,-,2006,Melbourne
+Anguilla,-,-,-,-,2010,Delhi
+Antigua & Barbuda,-,-,-,-,2010,Delhi
+Australia,74,56,50,180,2010,Delhi
+Bahamas,1,1,4,6,2010,Delhi
+Bangladesh,-,-,1,1,2010,Delhi
+Barbados,-,-,-,-,2010,Delhi
+Belize,-,-,-,-,2010,Delhi
+Bermuda,-,-,-,-,2010,Delhi
+Botswana,1,1,2,4,2010,Delhi
+British Virgin Islands,-,-,-,-,2010,Delhi
+Brunei Darussalam,-,-,-,-,2010,Delhi
+Cameroon,-,2,4,6,2010,Delhi
+Canada,26,17,33,76,2010,Delhi
+Cayman Islands,1,-,-,1,2010,Delhi
+Cook Islands,-,-,-,-,2010,Delhi
+Cyprus,4,3,4,11,2010,Delhi
+Dominica,-,-,-,-,2010,Delhi
+England,37,59,44,140,2010,Delhi
+Falkland Islands,-,-,-,-,2010,Delhi
+Ghana,-,1,3,4,2010,Delhi
+Gibraltar,-,-,-,-,2010,Delhi
+Grenada,-,-,-,-,2010,Delhi
+Guernsey,-,-,-,-,2010,Delhi
+Guyana,-,1,-,1,2010,Delhi
+India,39,26,36,101,2010,Delhi
+Isle of Man,-,-,2,2,2010,Delhi
+Jamaica,2,4,1,7,2010,Delhi
+Jersey,-,-,-,-,2010,Delhi
+Kenya,12,11,10,33,2010,Delhi
+Kiribati,-,-,-,-,2010,Delhi
+Lesotho,-,-,-,-,2010,Delhi
+Malawi,-,-,-,-,2010,Delhi
+Malaysia,12,10,14,36,2010,Delhi
+Maldives,-,-,-,-,2010,Delhi
+Malta,-,-,-,-,2010,Delhi
+Mauritius,-,-,2,2,2010,Delhi
+Montserrat,-,-,-,-,2010,Delhi
+Mozambique,-,-,-,-,2010,Delhi
+Namibia,-,1,2,3,2010,Delhi
+Nauru,1,1,-,2,2010,Delhi
+New Zealand,6,22,8,36,2010,Delhi
+Nigeria,11,8,14,33,2010,Delhi
+Niue,-,-,-,-,2010,Delhi
+Norfolk Island,-,-,-,-,2010,Delhi
+Northern Ireland,3,3,4,10,2010,Delhi
+Pakistan,2,1,2,5,2010,Delhi
+Papua New Guinea,-,1,-,1,2010,Delhi
+Rwanda,-,-,-,-,2010,Delhi
+Samoa,3,-,1,4,2010,Delhi
+Scotland,9,10,7,26,2010,Delhi
+Seychelles,-,1,-,1,2010,Delhi
+Sierra Leone,-,-,-,-,2010,Delhi
+Singapore,10,12,8,30,2010,Delhi
+Solomon Islands,-,-,-,-,2010,Delhi
+South Africa,12,11,10,33,2010,Delhi
+Sri Lanka,-,1,1,2,2010,Delhi
+St. Helena,-,-,-,-,2010,Delhi
+St. Kitts & Nevis,-,-,-,-,2010,Delhi
+St. Lucia,-,-,1,1,2010,Delhi
+St. Vincent & The Grenadines,1,-,-,1,2010,Delhi
+Swaziland,-,-,-,-,2010,Delhi
+Tanzania,-,-,-,-,2010,Delhi
+The Gambia,-,-,-,-,2010,Delhi
+Tonga,-,-,2,2,2010,Delhi
+Trinidad & Tobago,-,4,2,6,2010,Delhi
+Turks & Caicos Islands,-,-,-,-,2010,Delhi
+Tuvalu,-,-,-,-,2010,Delhi
+Uganda,2,-,-,2,2010,Delhi
+Vanuatu,-,-,-,-,2010,Delhi
+Wales,3,6,10,19,2010,Delhi
+Zambia,-,-,-,-,2010,Delhi
+Anguilla,-,-,-,-,2014,Glasgow
+Antigua & Barbuda,-,-,-,-,2014,Glasgow
+Australia,49,42,46,137,2014,Glasgow
+Bahamas,-,2,1,3,2014,Glasgow
+Bangladesh,-,1,-,1,2014,Glasgow
+Barbados,-,-,1,1,2014,Glasgow
+Belize,-,-,-,-,2014,Glasgow
+Bermuda,-,-,-,-,2014,Glasgow
+Botswana,1,-,-,1,2014,Glasgow
+British Virgin Islands,-,-,-,-,2014,Glasgow
+Brunei Darussalam,-,-,-,-,2014,Glasgow
+Cameroon,1,3,3,7,2014,Glasgow
+Canada,32,16,34,82,2014,Glasgow
+Cayman Islands,-,-,-,-,2014,Glasgow
+Cook Islands,-,-,-,-,2014,Glasgow
+Cyprus,2,4,2,8,2014,Glasgow
+Dominica,-,-,-,-,2014,Glasgow
+England,58,59,57,174,2014,Glasgow
+Falkland Islands,-,-,-,-,2014,Glasgow
+Fiji,-,-,1,1,2014,Glasgow
+Ghana,-,-,2,2,2014,Glasgow
+Gibraltar,-,-,-,-,2014,Glasgow
+Grenada,1,-,1,2,2014,Glasgow
+Guernsey,-,-,-,-,2014,Glasgow
+Guyana,-,-,-,-,2014,Glasgow
+India,15,30,19,64,2014,Glasgow
+Isle of Man,-,1,-,1,2014,Glasgow
+Jamaica,10,4,8,22,2014,Glasgow
+Jersey,-,-,-,-,2014,Glasgow
+Kenya,10,10,5,25,2014,Glasgow
+Kiribati,1,-,-,1,2014,Glasgow
+Lesotho,-,-,-,-,2014,Glasgow
+Malawi,-,-,-,-,2014,Glasgow
+Malaysia,6,7,6,19,2014,Glasgow
+Maldives,-,-,-,-,2014,Glasgow
+Malta,-,-,-,-,2014,Glasgow
+Mauritius,-,1,1,2,2014,Glasgow
+Montserrat,-,-,-,-,2014,Glasgow
+Mozambique,-,1,1,2,2014,Glasgow
+Namibia,-,1,2,3,2014,Glasgow
+Nauru,-,1,-,1,2014,Glasgow
+New Zealand,14,14,17,45,2014,Glasgow
+Nigeria,11,11,14,36,2014,Glasgow
+Niue,-,-,-,-,2014,Glasgow
+Norfolk Island,-,-,-,-,2014,Glasgow
+Northern Ireland,2,3,7,12,2014,Glasgow
+Pakistan,-,3,1,4,2014,Glasgow
+Papua New Guinea,2,-,-,2,2014,Glasgow
+Rwanda,-,-,-,-,2014,Glasgow
+Samoa,-,2,1,3,2014,Glasgow
+Scotland,19,15,19,53,2014,Glasgow
+Seychelles,-,-,-,-,2014,Glasgow
+Sierra Leone,-,-,-,-,2014,Glasgow
+Singapore,8,5,4,17,2014,Glasgow
+Solomon Islands,-,-,-,-,2014,Glasgow
+South Africa,13,10,17,40,2014,Glasgow
+Sri Lanka,-,1,-,1,2014,Glasgow
+St. Helena,-,-,-,-,2014,Glasgow
+St. Kitts & Nevis,-,-,-,-,2014,Glasgow
+St. Lucia,-,-,1,1,2014,Glasgow
+St. Vincent & The Grenadines,-,-,-,-,2014,Glasgow
+Swaziland,-,-,-,-,2014,Glasgow
+Tanzania,-,-,-,-,2014,Glasgow
+Tonga,-,-,-,-,2014,Glasgow
+Trinidad & Tobago,-,3,5,8,2014,Glasgow
+Turks & Caicos Islands,-,-,-,-,2014,Glasgow
+Tuvalu,-,-,-,-,2014,Glasgow
+Uganda,1,-,4,5,2014,Glasgow
+Vanuatu,-,-,-,-,2014,Glasgow
+Wales,5,11,20,36,2014,Glasgow
+Zambia,-,-,2,2,2014,Glasgow
+Australia,80,59,59,198,2018,Gold Coast
+England,45,45,46,136,2018,Gold Coast
+India,26,20,20,66,2018,Gold Coast
+Canada,15,40,27,82,2018,Gold Coast
+New Zealand,15,16,15,46,2018,Gold Coast
+South Africa,13,11,13,37,2018,Gold Coast
+Wales,10,12,14,36,2018,Gold Coast
+Scotland,9,13,22,44,2018,Gold Coast
+Nigeria,9,9,6,24,2018,Gold Coast
+Cyprus,8,1,5,14,2018,Gold Coast
+Jamaica,7,9,11,27,2018,Gold Coast
+Malaysia,7,5,12,24,2018,Gold Coast
+Singapore,5,2,2,9,2018,Gold Coast
+Kenya,4,7,6,17,2018,Gold Coast
+Uganda,3,1,2,6,2018,Gold Coast
+Botswana,3,1,1,5,2018,Gold Coast
+Samoa,2,3,0,5,2018,Gold Coast
+Trinidad and Tobago,2,1,0,3,2018,Gold Coast
+Namibia,2,0,0,2,2018,Gold Coast
+Northern Ireland,1,7,4,12,2018,Gold Coast
+The Bahamas,1,3,0,4,2018,Gold Coast
+Papua New Guinea,1,2,0,3,2018,Gold Coast
+Fiji,1,1,2,4,2018,Gold Coast
+Pakistan,1,4,0,5,2018,Gold Coast
+Grenada,1,1,0,2,2018,Gold Coast
+Bermuda,1,0,0,1,2018,Gold Coast
+Guyana,1,0,0,1,2018,Gold Coast
+British Virgin Is.,1,0,0,1,2018,Gold Coast
+Saint Lucia,1,0,0,1,2018,Gold Coast
+Bangladesh,2,0,0,2,2018,Gold Coast
+Sri Lanka,1,5,0,6,2018,Gold Coast
+Cameroon,1,2,0,3,2018,Gold Coast
+Dominica,1,1,0,2,2018,Gold Coast
+Isle of Man,1,0,0,1,2018,Gold Coast
+Mauritius,1,0,0,1,2018,Gold Coast
+Nauru,1,0,0,1,2018,Gold Coast
+Malta,2,0,0,2,2018,Gold Coast
+Vanuatu,2,0,0,2,2018,Gold Coast
+Cook Islands,1,0,0,1,2018,Gold Coast
+Ghana,1,0,0,1,2018,Gold Coast
+Norfolk Island,1,0,0,1,2018,Gold Coast
+Seychelles,1,0,0,1,2018,Gold Coast
+Solomon Islands,1,0,0,1,2018,Gold Coast
