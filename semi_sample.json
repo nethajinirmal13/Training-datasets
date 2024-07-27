@@ -1,0 +1,97 @@
+[
+  {
+    "user_id": 1,
+    "name": "Alice Johnson",
+    "profile": {
+      "age": 30,
+      "email": "alice.johnson@example.com",
+      "phone": "555-1234"
+    },
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "activities": [
+      {"date": "2023-01-01", "activity": "Running", "duration": 30},
+      {"date": "2023-01-02", "activity": "Swimming", "duration": 45}
+    ]
+  },
+  {
+    "user_id": 2,
+    "name": "Bob Smith",
+    "profile": {
+      "age": 25,
+      "email": "bob.smith@example.com",
+      "phone": "555-5678"
+    },
+    "address": {
+      "street": "456 Oak St",
+      "city": "Othertown",
+      "state": "NY",
+      "zip": "67890"
+    },
+    "activities": [
+      {"date": "2023-01-03", "activity": "Cycling", "duration": 60},
+      {"date": "2023-01-04", "activity": "Running", "duration": 25}
+    ]
+  },
+  {
+    "user_id": 3,
+    "name": "Charlie Brown",
+    "profile": {
+      "age": 35,
+      "email": "charlie.brown@example.com",
+      "phone": "555-8765"
+    },
+    "address": {
+      "street": "789 Pine St",
+      "city": "Sometown",
+      "state": "TX",
+      "zip": "34567"
+    },
+    "activities": [
+      {"date": "2023-01-05", "activity": "Hiking", "duration": 120},
+      {"date": "2023-01-06", "activity": "Swimming", "duration": 50}
+    ]
+  },
+  {
+    "user_id": 4,
+    "name": "Diana Ross",
+    "profile": {
+      "age": 28,
+      "email": "diana.ross@example.com",
+      "phone": "555-2345"
+    },
+    "address": {
+      "street": "123 Elm St",
+      "city": "Anycity",
+      "state": "FL",
+      "zip": "54321"
+    },
+    "activities": [
+      {"date": "2023-01-07", "activity": "Yoga", "duration": 40},
+      {"date": "2023-01-08", "activity": "Running", "duration": 35}
+    ]
+  },
+  {
+    "user_id": 5,
+    "name": "Ethan Hunt",
+    "profile": {
+      "age": 32,
+      "email": "ethan.hunt@example.com",
+      "phone": "555-3456"
+    },
+    "address": {
+      "street": "456 Maple St",
+      "city": "Thiscity",
+      "state": "WA",
+      "zip": "67812"
+    },
+    "activities": [
+      {"date": "2023-01-09", "activity": "Running", "duration": 30},
+      {"date": "2023-01-10", "activity": "Gym", "duration": 60}
+    ]
+  }
+]
